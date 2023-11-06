@@ -33,7 +33,6 @@ public class Run {
                 e.printStackTrace();
             }
             
-            driver.close();
             driver.quit();
         }
     }

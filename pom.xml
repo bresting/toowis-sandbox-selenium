@@ -16,11 +16,12 @@
     </properties>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-server</artifactId>
-            <version>3.141.59</version>
+            <artifactId>selenium-java</artifactId>
+            <version>4.15.0</version>
         </dependency>
+
     </dependencies>
 </project>
